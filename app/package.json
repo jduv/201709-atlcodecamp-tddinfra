@@ -1,0 +1,15 @@
+{
+  "name": "codecamp2017",
+  "version": "1.0.0",
+  "description": "Test app for codecamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jduv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
